@@ -184,3 +184,5 @@ Pre-commit comes with great documentation and core built in hooks for you to use
 
 Example pre-commit hooks
 My hook examples can be [found here on gitlab](https://gitlab.com/johnsondnz/pre-commit-example) and a [demo playbook](https://gitlab.com/depereo/cloudbuilders-demo) using Arista container EOS here courtesy of [@depereo](https://gitlab.com/depereo) for anyone wanting to play with any of these examples.
+
+Author: [Donald Johnson](https://www.linkedin.com/in/johnsondnz/)
