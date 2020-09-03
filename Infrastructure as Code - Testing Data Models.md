@@ -45,7 +45,7 @@ While for this file this would not be an issue in it current state, we need to t
 site_vlans:
   - { vlan_name: test-1, vlan_id: 276, tags: ['pe01'] }
   - { vlan_name: test-2, vlan_id: 277, tags: ['test_mgmt'] }
-  - { vlan_name: test-3, vlroles/switch/vars/main.ymlan_id: 278, tags: ['fw', 'cpe'] }
+  - { vlan_name: test-3, vlan_id: 278, tags: ['fw', 'cpe'] }
   - { vlan_name: test-4, vlan_id: 280, tags: ['potato'] }
   - { vlan_namee: test-5, vlan_id: 281, tags: ['lima'] }
 ```
